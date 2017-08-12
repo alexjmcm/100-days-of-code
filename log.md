@@ -1,3 +1,6 @@
+//Examples
+
+
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
@@ -28,3 +31,16 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+//End of examples
+
+
+
+
+# 100 Days Of Code - Log
+
+### Day 0: August 12, 2017 (Example 1)
+##### (delete me or comment me out)
+
+**Today's Progress**: Begin the 100 days of code challenge. Did the set ups for the challenge.
