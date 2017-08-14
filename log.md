@@ -40,7 +40,12 @@
 
 # 100 Days Of Code - Log
 
-### Day 0: August 12, 2017 (Example 1)
-##### (delete me or comment me out)
+### Day 0: August 12, 2017 
+
 
 **Today's Progress**: Begin the 100 days of code challenge. Did the set ups for the challenge.
+
+### Day 1: August 13, 2017 
+Day 1: Worked on the Return Largest Numbers in Arrays in FCC. 
+**Link(s) to work**
+1 - Return Largest Numbers in Arrays (https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays)
