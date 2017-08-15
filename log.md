@@ -49,3 +49,10 @@
 Day 1: Worked on the Return Largest Numbers in Arrays in FCC. 
 **Link(s) to work**
 1 - Return Largest Numbers in Arrays (https://www.freecodecamp.org/challenges/return-largest-numbers-in-arrays)
+
+
+### Day 2: August 14, 2017 
+Day 2: Workded on Confirm the Ending in FCC.
+**Link(s) to work**
+1 - Confirm the ending: https://www.freecodecamp.org/challenges/confirm-the-ending
+
