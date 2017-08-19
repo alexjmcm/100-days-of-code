@@ -52,7 +52,12 @@ Day 1: Worked on the Return Largest Numbers in Arrays in FCC.
 
 
 ### Day 2: August 14, 2017 
-Day 2: Workded on Confirm the Ending in FCC.
+Day 2: Worked on Confirm the Ending in FCC.
 **Link(s) to work**
 1 - Confirm the ending: https://www.freecodecamp.org/challenges/confirm-the-ending
+
+### Day 3: August 19, 2017 
+Day 3: Worked on Repeat a string in FCC.
+
+
 
