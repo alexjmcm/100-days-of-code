@@ -57,9 +57,14 @@ Day 2: Worked on Confirm the Ending in FCC.
 1 - Confirm the ending: https://www.freecodecamp.org/challenges/confirm-the-ending
 
 ### Day 3: August 19, 2017 
-Day 3: Solved Repeat a string and Truncate a string in FCC .
+Day 3: Solved Repeat a string and Truncate a string in FCC.
 **Link(s) to work**
 1 - Repeat a string: https://www.freecodecamp.com/challenges/repeat-a-string-repeat-a-string
 2 - Truncate a string: https://www.freecodecamp.com/challenges/truncate-a-string
 
+### Day 4: August 27, 2017
+
+Day 4: Reviewed Javascript concepts in CodeAcadamy.
+**Link(s) to work**
+1 - Learn Javascript - https://www.codecademy.com/learn/learn-javascript
 
