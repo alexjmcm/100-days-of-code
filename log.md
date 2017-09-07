@@ -76,10 +76,13 @@ Day 5: Reviewed Javascript concepts in CodeAcadamy.
 
 
 ### Day 6: September 5, 2017
-Day 5: Reviewed Javascript concepts in CodeAcadamy.
+Day 6: Reviewed Javascript concepts in CodeAcadamy.
 **Link(s) to work**
 1 - Learn Javascript - https://www.codecademy.com/learn/learn-javascript
 
 
 
-
+### Day 7: September 6, 2017
+Day 7: Done 75% of the learn Javascript course in code academy. Reviewed Javascript concepts.
+**Link(s) to work**
+1 - Learn Javascript - https://www.codecademy.com/learn/learn-javascript
