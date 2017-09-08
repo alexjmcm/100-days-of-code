@@ -86,3 +86,11 @@ Day 6: Reviewed Javascript concepts in CodeAcadamy.
 Day 7: Done 75% of the learn Javascript course in code academy. Reviewed Javascript concepts.
 **Link(s) to work**
 1 - Learn Javascript - https://www.codecademy.com/learn/learn-javascript
+
+
+### Day 8: September 7, 2017
+Practiced the "For" Loops in the learn Javascript course in code academy. Reviewed Javascript concepts.
+**Link(s) to work**
+1 - Learn Javascript - https://www.codecademy.com/learn/learn-javascript
+
+
