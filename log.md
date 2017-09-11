@@ -97,3 +97,8 @@ Practiced the "For" Loops in the learn Javascript course in code academy. Review
 Practiced the "For" and "While" Loops in the learn Javascript course in code academy. Reviewed Javascript concepts.
 **Link(s) to work**
 1 - Learn Javascript - https://www.codecademy.com/learn/learn-javascript
+
+### Day 10: September 9, 2017
+Practiced the Javascript and the DOM in the learn Javascript course in code academy. Reviewed Javascript concepts.
+**Link(s) to work**
+1 - Learn Javascript - https://www.codecademy.com/learn/learn-javascript
