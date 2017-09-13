@@ -109,3 +109,9 @@ Day 11: September 11, 2017
 
 Practiced the Javascript and the DOM in the learn Javascript course in code academy. Reviewed Javascript concepts. Link(s) to work 1 - Learn Javascript - https://www.codecademy.com/learn/learn-javascript
 
+
+### Day 12: September 12, 2017
+Finished the Learn Javascript course in Code Academy. Practiced the Javascript and the DOM in the learn Javascript course in code academy. Reviewed Javascript concepts.
+**Link(s) to work**
+1 - Learn Javascript - https://www.codecademy.com/learn/learn-javascript
+
