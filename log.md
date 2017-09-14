@@ -115,3 +115,7 @@ Finished the Learn Javascript course in Code Academy. Practiced the Javascript a
 **Link(s) to work**
 1 - Learn Javascript - https://www.codecademy.com/learn/learn-javascript
 
+### Day 13: September 13, 2017
+Back to the Free Code Camp Map - Worked on the exercise "Chunky Monkey". 
+**Link(s) to work**
+1 - Chunky Monkey - https://www.freecodecamp.org/challenges/chunky-monkey
