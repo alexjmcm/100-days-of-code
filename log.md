@@ -119,3 +119,8 @@ Finished the Learn Javascript course in Code Academy. Practiced the Javascript a
 Back to the Free Code Camp Map - Worked on the exercise "Chunky Monkey". 
 **Link(s) to work**
 1 - Chunky Monkey - https://www.freecodecamp.org/challenges/chunky-monkey
+
+### Day 14: September 17, 2017
+Back to Free Code Camp Map - Solved the challenge "Slasher Flick". 
+**Link(s) to work**
+1 - Slasher Flick - https://www.freecodecamp.org/challenges/slasher-flick
