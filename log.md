@@ -124,3 +124,8 @@ Back to the Free Code Camp Map - Worked on the exercise "Chunky Monkey".
 Back to Free Code Camp Map - Solved the challenge "Slasher Flick". 
 **Link(s) to work**
 1 - Slasher Flick - https://www.freecodecamp.org/challenges/slasher-flick
+
+### Day 15: September 18, 2017
+Back to Free Code Camp Map - Practiced other solutions to the challenge "Slasher Flick". 
+**Link(s) to work**
+1 - Slasher Flick - https://www.freecodecamp.org/challenges/slasher-flick
