@@ -130,7 +130,7 @@ Back to Free Code Camp Map - Practiced other solutions to the challenge "Slasher
 **Link(s) to work**
 1 - Slasher Flick - https://www.freecodecamp.org/challenges/slasher-flick
 
-### Day 15: September 20, 2017
+### Day 16: September 20, 2017
 Back to Free Code Camp Map - Worked on the challenge "Mutations". 
 **Link(s) to work**
 1 - Mutations - https://www.freecodecamp.org/challenges/mutations
