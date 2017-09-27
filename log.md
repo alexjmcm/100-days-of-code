@@ -140,5 +140,9 @@ Practiced the challenge "Mutations" in Free Code Camp.
 **Link(s) to work**
 1 - Mutations - https://www.freecodecamp.org/challenges/mutations
 
+### Day 18: September 26, 2017
+Worked on Front End Web Design challenges of the Hubspot Design Certificate 
 
+**Link(s) to work**
+1 - Hubspot Design Certification Practice - https://app.hubspot.com/learning-center/
 
