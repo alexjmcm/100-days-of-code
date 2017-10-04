@@ -146,3 +146,28 @@ Worked on Front End Web Design challenges of the Hubspot Design Certificate
 **Link(s) to work**
 1 - Hubspot Design Certification Practice - https://app.hubspot.com/learning-center/
 
+
+### Day 19: September 27, 2017
+Worked on Front End Web Design challenges of the Hubspot Design Certificate 
+
+**Link(s) to work**
+1 - Hubspot Design Certification Practice - https://app.hubspot.com/learning-center/
+
+### Day 20: September 28, 2017
+Worked on Front End Web Design challenges of the Hubspot Design Certificate 
+
+**Link(s) to work**
+1 - Hubspot Design Certification Practice - https://app.hubspot.com/learning-center/
+
+### Day 21: September 29, 2017
+Worked on Front End Web Design challenges of the Hubspot Design Certificate 
+
+**Link(s) to work**
+1 - Hubspot Design Certification Practice - https://app.hubspot.com/learning-center/
+
+
+### Day 22: September 30, 2017
+Worked on Pixi.js at the Coffee'n'Code Event. 
+
+**Link(s) to work**
+1 - https://codepen.io/hlminh2000/full/veZQbN/
